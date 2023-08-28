@@ -8,29 +8,28 @@
 <br> <br> <br>
 <!-- <a href='https://br.linkedin.com/in/gabriel-braz-4a6b06224?trk=people-guest_people_search-card' >Linkedin</a> -->
 <div align='center'>
-  <!--<div class="test">-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bentricodeB&show_icons=true&hide=rank&theme=midnight-purple&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=midnight-purple&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=bentricode&show_icons=true&hide=rank&theme=gruvbox_light&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=gruvbox_light&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=bentricode&show_icons=true&include_all_commits=true&rank_icon=github" />
-</picture><!--</div>
-<div class="test">--><picture>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=gruvbox_light&langs_count=8" />
+</picture>
+<picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bentricode&layout=donut&theme=midnight-purple&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-bento&layout=donut&theme=midnight-purple&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bentricode&layout=donut&theme=gruvbox_light&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-bento&layout=donut&theme=gruvbox_light&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentricode&layout=donut&theme=gruvbox_light&langs_count=8" />
-</picture><!--</div>-->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marlon-bento&layout=donut&theme=gruvbox_light&langs_count=8" />
+</picture>
 </div>
 
 ## Our Projects
