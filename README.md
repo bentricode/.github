@@ -1,8 +1,8 @@
 # Bentricode
-<img align='left'  src='https://media.tenor.com/9kk18feeYQwAAAAd/persona5-lain.gif' alt='Bentricode Thingy' />
+<img align='left' width='440'  src='https://media.tenor.com/9kk18feeYQwAAAAd/persona5-lain.gif' alt='Bentricode Thingy' />
 <!-- <img align='left' width='480' height='320' src="https://media.tenor.com/BKUNP1p1D_wAAAAd/mr-robot-hello.gif" alt='Something' /> -->
 <div align='right'>
-        <strong>Bentricode</strong> is a software development group. We aim to develop projects using it as our logo!
+        <strong>Bentricode</strong> is a software development group.
 </div>
 <br> <br> <br> <br> <br>
 <br> <br> <br>
@@ -11,25 +11,25 @@
   <!--<div class="test">-->
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GabrielHenB&show_icons=true&hide=rank&theme=midnight-purple&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=bentricodeB&show_icons=true&hide=rank&theme=midnight-purple&include_all_commits=true&rank_icon=github"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api?username=GabrielHenB&show_icons=true&hide=rank&theme=gruvbox_light&include_all_commits=true&rank_icon=github"
+    srcset="https://github-readme-stats.vercel.app/api?username=bentricode&show_icons=true&hide=rank&theme=gruvbox_light&include_all_commits=true&rank_icon=github"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielHenB&show_icons=true&include_all_commits=true&rank_icon=github" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bentricode&show_icons=true&include_all_commits=true&rank_icon=github" />
 </picture><!--</div>
 <div class="test">--><picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=midnight-purple&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bentricode&layout=donut&theme=midnight-purple&langs_count=8"
     media="(prefers-color-scheme: dark)"
   />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=gruvbox_light&langs_count=8"
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=bentricode&layout=donut&theme=gruvbox_light&langs_count=8"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielHenB&layout=donut&theme=gruvbox_light&langs_count=8" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bentricode&layout=donut&theme=gruvbox_light&langs_count=8" />
 </picture><!--</div>-->
 </div>
 
